@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\src\\miaulang\\miaulang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA542E-B793-4257-BC72-D8161DF80D00}|miaulang.csproj|d:\\src\\miaulang\\miaulang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBA542E-B793-4257-BC72-D8161DF80D00}|miaulang.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA542E-B793-4257-BC72-D8161DF80D00}|miaulang.csproj|d:\\src\\miaulang\\miaulang\\miaulang.g4||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6DBA542E-B793-4257-BC72-D8161DF80D00}|miaulang.csproj|solutionrelative:miaulang.g4||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA542E-B793-4257-BC72-D8161DF80D00}|miaulang.csproj|d:\\src\\miaulang\\miaulang\\miaulangvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBA542E-B793-4257-BC72-D8161DF80D00}|miaulang.csproj|solutionrelative:miaulangvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Miaulang.g4",
+              "DocumentMoniker": "D:\\src\\miaulang\\miaulang\\Miaulang.g4",
+              "RelativeDocumentMoniker": "Miaulang.g4",
+              "ToolTip": "D:\\src\\miaulang\\miaulang\\Miaulang.g4",
+              "RelativeToolTip": "Miaulang.g4",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-30T21:44:09.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiaulangVisitor.cs",
+              "DocumentMoniker": "D:\\src\\miaulang\\miaulang\\MiaulangVisitor.cs",
+              "RelativeDocumentMoniker": "MiaulangVisitor.cs",
+              "ToolTip": "D:\\src\\miaulang\\miaulang\\MiaulangVisitor.cs",
+              "RelativeToolTip": "MiaulangVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:09:49.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\src\\miaulang\\miaulang\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\src\\miaulang\\miaulang\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:09:30.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
